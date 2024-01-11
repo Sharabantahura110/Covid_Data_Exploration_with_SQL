@@ -1,0 +1,1 @@
+This Projects shows the data exploration of collected covid data from the website(https://ourworldindata.org/). Two excel sheet (Covid_deaths.xlsx and Covid_Vaccinatation.xlsx) has been exploited here for exploratation of data.
